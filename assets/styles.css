@@ -1,0 +1,33 @@
+.card-header{
+  background-color: rgba(201, 171, 231, 0.5);
+}
+
+.list-group-item{
+	background-color: rgba(49, 14, 121, 0.8);
+  border-radius: 0.5rem; 
+  color: rgb(225, 255, 255);
+  padding: 1rem 0rem;
+}
+
+#convertidor{
+  background-color: rgba(222, 205, 240, 0.3);
+  border-radius: 0.5rem;
+}
+
+.card{
+  border: 0rem;
+}
+
+.amount{
+  height: 2.6rem;
+  padding: 0 0.9rem;
+  font-size: 1.063rem;
+  border-radius: 0.3em;
+  border: 0.06rem solid rgb(120, 120, 143);
+}
+
+input:focus{
+  padding: 0 0.6rem;
+  border: 0.125rem solid #675AFE;
+}
+
